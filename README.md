@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s a complete rewrite of the `README.md` file for your React + Vite project with Tailwind CSS installation and details about the packages used:
 
 ---
@@ -190,3 +191,6 @@ export default {
 This template sets up a React project with Vite, ESLint, Tailwind CSS, and Redux Toolkit for state management. With this setup, you can quickly start building modern, scalable web applications. Feel free to customize it further according to your project requirements!
 
 ---
+=======
+# lobster
+>>>>>>> 14730d50faffe028f4fff68cb67b7fd0f1dedc3e
